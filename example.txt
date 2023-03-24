@@ -1,0 +1,3 @@
+-->Git branch = shoing branches
+-->git branch branch _name : creating a new branch
+--> git checkout branch_name : switch to the new branch 
